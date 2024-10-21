@@ -1,1 +1,1 @@
-# 2425_VAP_2E_JIRI_PRASEK
+autor: Jiří Prášek
